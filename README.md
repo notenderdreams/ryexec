@@ -1,4 +1,7 @@
 # ryexec ⚡️
+<div style="text-align: center; background-color: #F1EFE7;">
+    <img src="Assets/images/ryexec.svg">
+</div>
 
 ## Overview
 
